@@ -1,4 +1,2 @@
-rootProject.name = 'ch.christofbuechi.carparttrading'
 include 'rest'
-include 'model'
 
